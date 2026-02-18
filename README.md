@@ -1,4 +1,4 @@
-<h1 align="center">Brayan Jacome/h1>
+<h1 align="center">Brayan Jacome</h1>
 <p align="center">
   Estudiante de Ingeniería de Software<br>
   Universidad de las Fuerzas Armadas ESPE
@@ -17,43 +17,48 @@ Actualmente fortaleciendo conocimientos en desarrollo web, desarrollo movil y de
 
 ## Tecnologías
 
-<p align="center">
-
-<!-- Lenguajes -->
-<img src="https://skillicons.dev/icons?i=java" height="45" />
-<img src="https://skillicons.dev/icons?i=js" height="45" />
-<img src="https://skillicons.dev/icons?i=ts" height="45" />
-<img src="https://skillicons.dev/icons?i=python" height="45" />
-<img src="https://skillicons.dev/icons?i=cpp" height="45" />
-<img src="https://skillicons.dev/icons?i=php" height="45" />
-<img src="https://skillicons.dev/icons?i=dart" height="45" />
-
-<br><br>
-
-<!-- Frameworks -->
-<img src="https://skillicons.dev/icons?i=spring" height="45" />
-<img src="https://skillicons.dev/icons?i=express" height="45" />
-<img src="https://skillicons.dev/icons?i=fastapi" height="45" />
-<img src="https://skillicons.dev/icons?i=react" height="45" />
-<img src="https://skillicons.dev/icons?i=html" height="45" />
-<img src="https://skillicons.dev/icons?i=css" height="45" />
-
-<br><br>
-
-<!-- Bases de Datos -->
-<img src="https://skillicons.dev/icons?i=mysql" height="45" />
-<img src="https://skillicons.dev/icons?i=postgres" height="45" />
-
-<br><br>
-
-<!-- APIs & Tools -->
-<img src="https://skillicons.dev/icons?i=postman" height="45" />
-<img src="https://skillicons.dev/icons?i=git" height="45" />
-<img src="https://skillicons.dev/icons?i=github" height="45" />
-<img src="https://skillicons.dev/icons?i=vscode" height="45" />
-
-</p>
-
+<table align="center">
+  <tr>
+    <!-- Lenguajes -->
+    <td><img src="https://skillicons.dev/icons?i=java" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=php" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=dart" height="45" /></td>
+  </tr>
+  <tr>
+    <!-- Frameworks -->
+    <td><img src="https://skillicons.dev/icons?i=spring" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=express" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" height="45" /></td>
+    <td></td>
+  </tr>
+  <tr>
+    <!-- Bases de Datos -->
+    <td><img src="https://skillicons.dev/icons?i=mysql" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" height="45" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <!-- APIs & Tools -->
+    <td><img src="https://skillicons.dev/icons?i=postman" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" height="45" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" height="45" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
