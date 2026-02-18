@@ -15,6 +15,12 @@ Actualmente fortaleciendo conocimientos en desarrollo web, desarrollo movil y de
 
 ---
 
+## Objetivo Profesional
+
+Desarrollarme como ingeniero de software participando en proyectos que generen impacto real, aplicando principios de diseño sólido, trabajo en equipo y aprendizaje continuo.
+
+---
+
 ## Tecnologías
 
 <table align="center">
@@ -67,12 +73,6 @@ Actualmente fortaleciendo conocimientos en desarrollo web, desarrollo movil y de
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/BrayanJac?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />
 </p>
-
----
-
-## Objetivo Profesional
-
-Desarrollarme como ingeniero de software participando en proyectos que generen impacto real, aplicando principios de diseño sólido, trabajo en equipo y aprendizaje continuo.
 
 ---
 
